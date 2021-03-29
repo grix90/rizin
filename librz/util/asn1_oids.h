@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2018 pancake <pancake@nopcode.org>
+// SPDX-FileCopyrightText: 2018 deroad <wargio@libero.it>
+// SPDX-License-Identifier: LGPL-3.0-only
+
 #ifndef OIDS_H
 #define OIDS_H
 
